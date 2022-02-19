@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SebCodeWeb
 - 👀 I’m interested in many langages, JS, Rust, C++, C#
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on all intresting projects
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on all interesting projects
 - 📫 How to reach me: Send me a DM
 
 <!---
